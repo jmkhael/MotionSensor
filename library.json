@@ -1,0 +1,14 @@
+{
+  "name": "MotionSensor",
+  "keywords": "sensor, rf, motion",
+  "description": "Motion Sensor - mySensor",
+  "include": "libraries/MotionSensor",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/jmkhael/MotionSensor.git"
+  },
+  "version": "1.0.0",
+  "frameworks": "arduino",
+  "platforms": "*"
+}
